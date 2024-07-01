@@ -1,4 +1,4 @@
-<img align="right" height="125" width="125" src="https://i.pinimg.com/originals/ef/03/49/ef03498a3d6613e106ffb10e052e990a.gif"  /> <br><br><br>
+
 
 ###
 
@@ -6,7 +6,9 @@
 
 ###
 
- - I'm Carlos and I'm a Computer Science student at UFMA (Universidade Federal do Maranhão)</p>
+ <img align="right" height="125" width="125" src="https://i.pinimg.com/originals/ef/03/49/ef03498a3d6613e106ffb10e052e990a.gif"  /> 
+ 
+ - I'm Carlos and I'm a Computer Science student at UFMA (Universidade Federal do Maranhão)</p> <br><br>
 
 ###
 
