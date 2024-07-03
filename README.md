@@ -68,7 +68,7 @@
 <br clear="both">
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/jos%C3%A9-carlos-souza-pacheco-j%C3%BAnior-9bba61304/" target="_blank">
+  <a href="https://www.linkedin.com/in/josé-carlos-souza-pacheco-júnior-9bba61304" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
   <a href="https://www.Discordapp.com/users/366692789905522699" target="_blank">
