@@ -48,11 +48,6 @@
 
 ###
 
-<div align="left">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=CarlosSouzapjr&radius=16&theme=react&area=true&order=5" height="350" alt="activity-graph graph"  />
-</div>
-
-###
 
 <h2 align="left">🌐 Social</h2>
 
